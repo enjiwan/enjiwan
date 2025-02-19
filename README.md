@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi there, I'm Jiwan Khatri</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50px"> 
+  Hi, I'm Jiwan Khatri
+</h1>
 <h3 align="center">AI & Machine Learning Enthusiast | Computer Engineering Student</h3>
 
 ---
@@ -18,11 +21,13 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-Expert-blue?logo=scikitlearn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.2-008080?logo=plotly&style=for-the-badge)
 
 ### **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=google-colab&logoColor=black)
 
 ---
@@ -39,6 +44,11 @@
    - [GitHub Repo](https://github.com/enjiwan/Snake-Game-using-Python)  
 
 ---
+## 🤖 "Machine intelligence should augment human capability, not replace it. 
+   My development principles emphasize:
+   - Ethical AI practices
+   - Explainable model architectures
+   - Sustainable computational efficiency"
 
 ## ☕ **Support My Work**  
 If you find my projects valuable, consider supporting my development journey:  
