@@ -20,8 +20,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
-![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-Expert-blue?logo=scikitlearn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7.2-008080?logo=plotly&style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?logo=plotly&logoColor=white)
 
 ### **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
