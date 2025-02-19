@@ -1,7 +1,5 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50px"> 
-  Hi, I'm Jiwan Khatri
-</h1>
+
+<h1 align="center">👋 Hi there, I'm Jiwan Khatri</h1>
 <h3 align="center">AI & Machine Learning Enthusiast | Computer Engineering Student</h3>
 
 ---
